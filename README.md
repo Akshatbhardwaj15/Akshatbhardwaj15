@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshatbhardwaj15" alt="akshatbhardwaj15" /></a> </p>
    
 - 🌱 I’m currently learning **Backend Topics**     
-- 👨‍💻 My portfolio and projects are available [here](https://github.com/Akshatbhardwaj15)        
+- 👨‍💻 My portfolio and projects are available [here](https://github.com/Akshatbhardwaj15)                  
 - 💬 Ask me about **Full-Stack Development, DSA, and Open-Source Contributions**  
 - 📫 How to reach me **akshatbhardwaj680@gmail.com**  
 - ⚡ Fun fact **I write poems and stories in my free time**  
