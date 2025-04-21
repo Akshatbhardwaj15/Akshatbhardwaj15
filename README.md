@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Backend Topics**                                                                                                                                             
 - 👨‍💻 My portfolio and projects are available [here](https://github.com/Akshatbhardwaj15)                                                                                                                                                                                                                                              
 - 💬 Ask me about **Full-Stack Development, DSA, and Open-Source Contributions**                                      
-- 📫 How to reach me **akshatbhardwaj680@gmail.com**                                                                                                                                                                                          
+- 📫 How to reach me **akshatbhardwaj680@gmail.com**                                                                                                                                                                                                                             
 - ⚡ Fun fact **I write poems and stories in my free time**                                                                                
 
 <h3 align="left">Connect with me:</h3>
